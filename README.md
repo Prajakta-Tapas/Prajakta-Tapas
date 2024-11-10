@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajakta-Tapas
-- 👀 I’m interested in R Programming
-- 🌱 I’m currently learning Bioinformatics
+- 👀 I’m interested in R Programming, Python and Linux
+- 🌱 I’m currently working as a Prompt Engineer
 - 📫 Reach me at- prajakta.tapas14@gmail.com
 
 <!---
